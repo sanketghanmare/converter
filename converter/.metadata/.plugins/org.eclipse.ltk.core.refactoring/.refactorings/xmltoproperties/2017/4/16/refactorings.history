@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;upload.js&apos; to &apos;html&apos;" description="Move &apos;upload.js&apos; to &apos;html&apos;" destination="public/html" element1="public/js/upload.js" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1492447161250" updateReferences="true"/>
+</session>
